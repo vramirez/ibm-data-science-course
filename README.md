@@ -1,5 +1,9 @@
 # ibm-data-science-course
-Notes and links to an IBM data science (free) course
+Notes and links to an IBM data science (free) course. Available after completing "Applied AI" program in:
+
+[IBM Coder Program](https://ibmcoders.influitive.com/challenges)
+
+
 
 ## Interesting lectures:
 
